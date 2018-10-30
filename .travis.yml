@@ -1,0 +1,5 @@
+language: python
+python:
+ - 3.0
+ - "stable"
+script: python simple_script.py
