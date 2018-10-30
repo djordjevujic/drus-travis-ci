@@ -1,5 +1,4 @@
 # distributed control systems
----
 
 Repository for learning how to use Travis CI with Github.
 
